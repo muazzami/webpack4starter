@@ -1,0 +1,12 @@
+$bg-color: #f3f3f3;
+
+body {
+  background: $bg-color;
+  color: #222;
+}
+
+h1 {
+  color: red;
+  user-select: none;
+  display: grid;
+}
